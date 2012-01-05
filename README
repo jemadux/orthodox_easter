@@ -1,0 +1,7 @@
+---------
+If you want to compile and run this programm with Gnu / Linux you need 
+
+$ g++ orthodox_easter -o orthodox_easter 
+$ ./orthdox_easter 
+
+This programm licenced by GPLv3 
