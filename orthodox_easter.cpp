@@ -29,8 +29,8 @@
             a=(y%19);b=(y%4);c=(y%7);d=(16+19*a)%30;e=((2*b)+(4*c)+(6*d))%7;
             day=3+d+e ;
              if (day <= 30 )
-                cout<<"the orthodox easter is on "<< day << "April " << y <<endl;
+                cout<<"the orthodox easter is on "<< day << "April of the year " << y <<endl;
              else
-                  cout<<"The orthodox easter is on the  "<< day-30 <<" May and the year "<< y <<endl;
+                  cout<<"The orthodox easter is on the  "<< day-30 <<" May of the year "<< y <<endl;
     return 0;   
         }
